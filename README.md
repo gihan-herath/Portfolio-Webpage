@@ -1,7 +1,7 @@
 <!-- ABOUT THE PROJECT -->
 # <b>Basic Portfolio Webpage</b>
 
-<img src="imgs/portfolio.png" width="500px" height="250px">
+<img src="imgs/portfolio.png" width="800px" height="450px">
 
 
 <p>Created a basic Portfolio webpage using HTML, CSS and JavaScript
@@ -12,7 +12,7 @@
 
 * HTML5 <img src="imgs/html5.png" width=50px>
 * CSS3 <img src="imgs/CSS3.png" width=50px>
-* JavScript <img src="imgs/js.jpeg" width=50px>
+* JavaScript <img src="imgs/js.jpeg" width=50px>
 
 
 ## How to use this repository
