@@ -1,8 +1,7 @@
 <!-- ABOUT THE PROJECT -->
 # <b>Basic Portfolio Webpage</b>
 
-<img src="src/main/resources/img/screenshot/Photo-1.png" width="500px" height="250px">
-<img src="src/main/resources/img/screenshot/Photo-2.png" width="500px" height="250px">
+<img src="imgs/portfolio.png" width="500px" height="250px">
 
 
 <p>Created a basic Portfolio webpage using HTML, CSS and JavaScript
@@ -11,8 +10,9 @@
 
 ## Built with using
 
-* Java <img src="src/main/resources/img/other/java.png" width=50px>
-* JavaFX <img src="src/main/resources/img/other/javafx.png" width=50px>
+* HTML5 <img src="imgs/html5.png" width=50px>
+* CSS3 <img src="imgs/CSS3.png" width=50px>
+* JavScript <img src="imgs/js.jpeg" width=50px>
 
 
 ## How to use this repository
